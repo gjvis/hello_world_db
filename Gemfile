@@ -2,5 +2,5 @@ source "https://rubygems.org"
 
 gem "pg"
 gem "sequel"
-gem "sinatra"
-gem "unicorn"
+gem "sinatra", ">= 2.0.0"
+gem "unicorn", ">= 5.0.1"
